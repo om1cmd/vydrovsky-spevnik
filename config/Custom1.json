@@ -1,0 +1,28 @@
+settings.strict : true
+settings.inline-chords : false
+pdf.spacing.lyrics : 1.2
+pdf.spacing.chords : 1.2
+pdf.chorus.bar.width: 0
+pdf.chorus.recall.tag : ""
+pdf.papersize : a4
+pdf.labels.width : 20
+
+// Page margins
+pdf.margintop : 60
+pdf.marginbottom : 40
+pdf.marginleft : 40
+pdf.marginright : 40
+
+pdf.headspace : 40
+pdf.columnspace : 20
+
+// Diagrams
+pdf.diagrams.nutwidth : 2
+pdf.diagrams.show : top
+pdf.diagrams.align : center
+
+// Fonts
+pdf.fonts.title : "serif bold 14"
+pdf.fonts.text : "serif 12"
+pdf.fonts.chord : "sans bold italic 10"
+pdf.fonts.label : "sans bold italic 10"
