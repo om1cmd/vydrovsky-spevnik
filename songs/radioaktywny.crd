@@ -8,7 +8,7 @@
 [Ami]Budzi [C]mnie, kurz i [G]pył
 Z czoła [D]wycieram krople [Ami]rdzy
 Wdycham [C]wciąż chemiczny [G]dym
-{eov}
+{end_of_verse}
 
 # ešte nie som spokojný s umiestnením akordov tu, musím si to zahrať a upraviť
 {start_of_verse: label="2."}
@@ -16,7 +16,7 @@ Wdycham [C]wciąż chemiczny [G]dym
 Uciekam z [D]tego miejsca, które znam[Ami]
 Właśnie tak [C]kończy się [G]świat
 [D]Whoa
-{eov}
+{end_of_verse}
 
 {start_of_chorus label="R."}
 [D]I budzę [Ami]się a w kościach [C]czuję to
@@ -27,19 +27,19 @@ Właśnie tak [C]kończy się [G]świat
 [G]Radioaktywny, [D]radioaktywny
 Uło łu oo, uło łu jestem
 Radioaktywny, radioaktywny
-{eoc}
+{end_of_chorus}
 
 {start_of_verse: label="3."}
 Ubieram się, na fladze znak
 Chyba rewolucji przyszedł czas
 Czerwienią już pomalujcie nas
-{eov}
+{end_of_verse}
 
 {start_of_verse: label="4."}
 Łamię się i zmieniam kształt
 Uciekam z tego miejsca, które znam
 Właśnie tak kończy się świat
-{eov}
+{end_of_verse}
 
 {chorus}
 I budzę się...
@@ -49,7 +49,7 @@ I budzę się...
 [G]Słońce jeszcze [D]lśni
 Kości lekko drżą
 Dają sygnał mi
-{eov}
+{end_of_verse}
 
 {chorus}
 I budzę się...
