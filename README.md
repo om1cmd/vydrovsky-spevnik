@@ -1,0 +1,2 @@
+# Spevník vydrovských dobrovoľníkov
+Cieľom tohoto projektu je vytvoriť ľahko vytlačiteľný a ľahko upraviteľný spevník. Až vytvoríme dostatok súborov s pesničkami, bude tu zverejnený aj pdf súbor s celým spevníkom.
