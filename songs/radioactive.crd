@@ -1,6 +1,6 @@
 {title: Radioactive}
-{subtitle: Imagine Dragons}
 {artist: Imagine Dragons}
+{subtitle: %{artist}}
 
 {start_of_verse: label="1."}
 [Ami]I'm waking [C]up to ash and [G]dust

@@ -1,6 +1,6 @@
 {title: Hrobař}
-{subtitle: Premiér}
 {artist: Premiér}
+{subtitle: %{artist}}
 
 {start_of_verse: 1.}
 V [G]mládí jsem se učil hrobařem,
