@@ -2,10 +2,56 @@
 {artist: Elán}
 {subtitle: %{artist}}
 
-{start_of_verse: 1}
-[Ami]Mladá, [C]skladá z [Fmaj7]úlomkov [G]svet.
-[Ami]Hľadá, [C]hľadá [Fmaj7] tvár akej [G]niet.
+{start_of_verse: 1.}
+[Ami]Mladá, [C]skladá z [Fmaj7]úlomkov [G]svet,
+[Ami]hľadá, [C]hľadá [Fmaj7] tvár akej [G]niet.
 [Dmi]Trápenie [G7]slov,
 vie že [Ami]mal si byť [G]dávno s [F]ňou.
 {end_of_verse}
 
+{start_of_verse: 2.}
+Taká, akú dávno si chcel,
+čaká, tvoje áno, či nie.
+Trápenie slov,
+vie že mal si byť dávno s ňou.
+{end_of_verse}
+
+{start_of_chorus: R1}
+[Ami]Kráľovná bielych [Fmaj7]tenisiek,
+čo [G]viac už môžeš [Emi]chcieť.
+Od rána stráži telefón,
+čo ak by práve on.
+Beznádej s [F]nádejou,
+[G]celý deň [F]nejde von.
+{end_of_chorus}
+
+{start_of_verse: 3.}
+= 1.
+{end_of_verse}
+
+{start_of_chorus: R2}
+[C]Skús ju [G]nájsť,
+[B]na známych adresách,
+ľudí sa nepýtaj.
+[C]Skús ju [G]nájsť,
+[B]je v sebe ukrytá pred tebou [G]ukrytá...
+{end_of_chorus}
+
+{start_of_chorus: R1}
+Kráľovná bielych tenisiek,
+čo viac už môžeš chcieť.
+V očiach má známe video,
+na ktorom príde on.
+Beznádej s nádejou,
+celý deň nejde von.
+{end_of_chorus}
+
+{start_of_verse: M}
+Skús ju nájsť, na známych adresách, nové už nezískaš,
+skús ju nájsť, bež v bielych teniskách po blate a snehu,
+skús ju nájsť, kráľovstvo za nehu, ľudí sa nepýtaj,
+skús ju nájsť, je v sebe ukrytá, je v sebe ukrytá,
+skús ju nájsť, na známych adresách nové nezískaš,
+skús ju nájsť, bež v bielych teniskách po blate na snehu.
+Skús, skús...
+{end_of_verse}
